@@ -1,4 +1,4 @@
-# 📌BLACKSSH NEW UPDATE V6
+# 📌YASH THE KING
 * UPDATE 30/09/2021
 
 *  HAVE TELEGRAM SSH CREATE BOT
@@ -11,7 +11,7 @@
 
 
 
-# 📌BLACKSSH MANAGER
+# 📌YASHSSH MANAGER
 
 * යාවත්කාලීන කිරීම 02/09/2021 - සම්පූර්ණ කරන ලද ව්‍යාපෘතිය
 
